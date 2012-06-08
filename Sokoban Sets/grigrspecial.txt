@@ -1,0 +1,554 @@
+#####
+#   #########
+# $    ##   #
+##$#..      #
+## ##*#### ##
+#  ##. @ #  #
+#  $.. # $  #
+#  ###$###  #
+##      #####
+ ####   #
+    #####
+Author: GRIGoRusha
+Title: Krutoy Povorot
+##########
+#  .##   ##
+#   $@$#  #
+##$#.#. $ #
+ # #*$*#  #
+## #. .  ##
+#  .#$# ##
+#       #
+####   ##
+   #####
+Author: David Holland and GRIGoRusha
+Title: Jump in Depth
+Comment:
+remodel DH Bagatelle 10
+Comment-End:
+       ####
+######## @#
+#  $ $ $ $#
+# #*.  .# ##
+#    . #.  #
+##$### .   #
+ #     #####
+ #######
+Author: Aymeric du Peloux and GRIGoRusha
+Title: New hairdress
+Comment:
+remodel MicroCosmos 37
+Comment-End:
+#####
+#   ####
+#  $.$ ##
+##$#@#  #
+ # ...  #
+##$#.# ##
+#   $   #
+#   #   #
+#########
+Author: Aymeric du Peloux and GRIGoRusha
+Title: Hybrid
+Comment:
+remodel NaboKosmos 32
+Comment-End:
+  #####
+ ##   ####
+ #    #  #
+## # ##  #
+#  #     #
+# $**** ##
+# $ ..* #
+##@ # * #
+ #####  #
+     ####
+Author: GRIGoRusha
+Title: The Dancer
+Comment:
+Only for Paul and with help Paul
+Comment-End:
+ #########
+ #   ##  #
+ #    $  #
+ ## #*#$ #
+ #  *.# ##
+##$#@*. ###
+#  .*.#   #
+# $ #   # #
+#    ##   #
+##   ######
+ #####
+Author: GRIGoRusha
+Title: SkyFlier
+##########
+#   ##   #
+# #  $   #
+#   #*# ##
+### *+*  #
+ ##$***$ #
+ #  #..###
+ #      #
+ #  # # #
+ ####   #
+    #####
+Author: Betepok
+Title: Znaki
+   #####
+   #@  #
+ ###$# #
+ #  $  #
+ # .*.###
+ #$.*.$ #
+ # .*.  #
+## #$# ##
+#   $   #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Right way
+  ####
+ ##  #
+## $ ###
+# $@*  #
+#  * #.#
+##* *  #
+ # . . #
+ # #$###
+ #   #
+ #####
+Author: Aymeric du Peloux and GRIGoRusha
+Title: SnowFall
+Comment:
+remodel PicoKosmos 20
+Comment-End:
+  #####
+ ##   #
+ #  # ##
+##*.   #
+# *.#  #
+#@#*$  #
+# *. # #
+##$# # ##
+# $     #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Kiborg
+Comment:
+for Fred, with many Thanks for You
+Comment-End:
+   #####
+  ##   # 
+  # .#$# 
+ ## * @# 
+##  ***##
+#    *  #
+# # # # #
+#   #   #
+#########
+Author: Kevin B. Reilly and GRIGoRusha
+Title: Slider from Game Life
+Comment:
+design some level from Kevin levels sets
+Comment-End:
+ ########
+ #  *   #
+ #@ * * #
+##$$*$* #
+# $ * . #
+# # . ###
+# . . #
+#######
+Author: YASGen, Brian Damgaard and GRIGoRusha
+Title: Impossible Way
+Comment:
+for Brian Damgaard
+design some level from YASGen level set
+Comment-End:
+   ####  
+####  #  
+# $   #  
+# $#  ###
+# @# #  #
+# ## $  #
+#.*  #  #
+#.*..* ##
+## ### ##
+#    $  #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Soldafon
+   #####
+ ###   ##
+ #      #
+ # #..# ##
+ #$#****.#
+ #       #
+## #### ##
+#@$$     #
+#   ##   #
+##########
+Author: Nakamiya and GRIGoRusha
+Title: Lost Hunter
+Comment:
+for Nakamiya
+Comment-End:
+##### #####
+#   ###   #
+# @     $ #
+##$##$$#$##
+ #  #..#  #
+ #$ #...  #
+ #  #..#  #
+ ## ##$####
+ #  ##  #
+ #      # 
+ #  ##  # 
+ ######## 
+Author: GRIGoRusha
+Title: Roga i Kopita
+Comment:
+for York Shen !!!
+Comment-End:
+  #########
+  #   #   #
+  #   $   #
+#### #$# ##
+#      # #
+#  $##@# #
+## *..*# #
+ # *..*. #
+ #$# #$###
+ #     #
+ #######
+Author: GRIGoRusha
+Title: Matros  ######
+  # *  #
+###    ##
+# *.@** #
+#  $*   #
+###  ####
+  #  #
+  ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Wanderer
+  #####
+  #   ###
+  # .$. #
+###$.$@ #
+# . .$###
+#  $. #
+## ##$#
+ #    #
+ ######
+Author: Lee J Haywood and GRIGoRusha
+Title: The Rain
+########
+#  #   #
+# $ @#$#
+#  #   #
+## . .$#
+## ##. ##
+#  ##.  #
+# $.$.$ #
+#  ######
+####
+Author: GRIGoRusha
+Title: Russian Beauty
+
+  ####
+### @####
+#  $$$  #
+# #.*.# #
+#  .* # #
+## #*.# ##
+#   $    #
+#   ##   #
+##########
+Author: GRIGoRusha
+Title: Brave Heart
+   ####
+   #  #
+####. ###
+#  $$$@ #
+#  .. # #
+##$$$   #
+ #...####
+ ##  #
+  ####
+Author: GRIGoRusha
+Title: Light Draft
+Comment:
+for Monry
+Comment-End:
+  ####
+  #  ###
+  #    ##
+###  #  #
+#  $.@# #
+# .$.$. #
+##.$##$##
+ #     #
+ #######
+Author: GRIGoRusha
+Title: Assol
+  ####
+  #  ####
+  # *   #
+### ....#
+#  $*$$ #
+#   . ###
+###$*$@#
+  #    #
+  ######
+Author: GRIGoRusha
+Title: Elki-Palki
+ #####     
+ # + #     
+ #$.$#     
+ # * #     
+ # * #     
+ # * ######
+## * $    #
+#  * **.*.#
+#    $    #
+##  #######
+ ####      
+Author: GRIGoRusha
+Title: Duble Hanoy
+Comment:
+for Aymeric
+Comment-End:
+   ####
+   #  ###
+   #    #
+ ###  # #
+ #@****.#
+ # # *.##
+ # #   #
+## #$# ##
+#   $   #
+#   #   #
+#########
+Author: GRIGoRusha
+Title: Ribolov
+ ########
+ #   @  ###
+## ## #   #
+#  ##   $ #
+# $##$## ##
+# $ .$.$$#
+##$..... #
+ # .#$#.$#
+ # ..$.. #
+ ##### $$#
+     #   #
+     #####
+Author: GRIGoRusha
+Title: The Temple
+Comment:
+for Hir
+Comment-End:
+#####
+#   ##### 
+#       # 
+##$#$$$@# 
+ # #  ####
+## ## $  #
+#.... .  #
+#   ###  #
+##### ####
+Author: GRIGoRusha
+Title: Gambit
+Comment:
+date: 02.01.05
+Comment-End:
+#########
+#   #   #
+#    $$@#
+## ### ##
+ #  .. # 
+##  ## # 
+#.**##$##
+#       #
+#####   #
+    #####
+Author: GRIGoRusha
+Title: Baton
+Comment:
+date: 02.01.05
+Comment-End:
+ #####  
+ #   #  
+## # ###
+#  * $ #
+#  *** #
+#.* * @#
+#   *  #
+########
+Author: GRIGoRusha
+Title: Vilka
+Comment:
+date: 07.03.05
+Comment-End:
+   ####
+   #@ #
+  ##$ ###
+  # *   #
+###  *  #
+#  * *###
+#  *  #
+### . #
+  #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Turn
+Comment:
+date: 23.03.05
+Comment-End:
+    ####
+    #  #
+#####  ###
+#   **$  #
+#   .*   #
+#  # * ###
+#### @##
+   ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Trap
+Comment:
+date: 23.03.05
+Comment-End:
+  ####
+  #  ###
+  #  $ #
+###* * #
+#  * . #
+#   #* #
+## * @##
+ #  ###
+ ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Rain
+Comment:
+date: 23.03.05
+Comment-End:
+  ####
+### @#
+#  $ ###
+#.$.$  #
+# .$.  #
+#.$#$###
+# .  #
+#  ###
+####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Cell
+Comment:
+date: 29.03.05
+Comment-End:
+#####
+#   ##
+# $. #
+##$. #
+ # . #
+ #$.$###
+ #@.$  #
+ #$.$. #
+ #   ###
+ #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Line
+Comment:
+date: 30.03.05
+Comment-End:
+####
+#  ###
+#    #
+#.*  ###
+# *#   #
+# *@$  #
+# ** ###
+###  #
+  ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Hook
+Comment:
+date: 02.04.05
+Comment-End:
+ ####
+ #@ #
+##.$###
+# $ $ #
+# .$. ##
+# $.$  #
+##.#.  #
+ #   ###
+ #####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Tree
+Comment:
+date: 03.04.05
+Comment-End:
+
+  ####
+  #  #
+### *####
+# $  .  #
+#  *   *#
+###@* * #
+  ## *  #
+   ###  #
+     ####
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Vamp
+Comment:
+date: 04.04.05
+Comment-End:
+ ####
+ #  ##
+ #$. #
+ #.$ ####
+## .$.@ #
+#  $.$  #
+# $. ####
+# .$ #
+######
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Tool
+Comment:
+date: 05.04.05
+Comment-End:
+  ####
+  #  ##
+  #   #
+  # * #
+  #*@*#
+  # * ##
+### *  #
+#  *$  #
+# .   ##
+#######
+Author: Dries De Clercq and GRIGoRusha
+Title: Unfinished Fish
+Comment:
+date: 06.04.05
+Comment-End:
+   #####
+ ###   #
+##     #
+# *** ##
+# @*  #
+# ** ##
+###  #
+  #  #
+  ####
+Author: Aymeric du Peloux and GRIGoRusha
+Title: Finish
+Comment:
+date: 15.04.05
+For Erim Sever
+
+for play in this level in normal style load NaboKosmos 40a from RemodelClub
+Comment-End:

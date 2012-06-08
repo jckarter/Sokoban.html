@@ -1,0 +1,8 @@
+This is an HTML-based Sokoban game. To see it in action:
+
+http://duriansoftware.com/toys/Sokoban/Sokoban.html
+
+The Perl script xsb-to-js.pl can convert Sokoban puzzle
+sets in the common XSB format into Javascript files that
+can be added to the game by loading the resulting js file
+from a script tag in Sokoban.html.

@@ -1,0 +1,677 @@
+####
+#  ###
+#  $@#
+# *. #
+##   #
+ #####
+Title: Be ban 10
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+####
+#  #
+#  ###
+#  $ #
+##*#.#
+#  @ #
+#    #
+#  ###
+####
+Title: Be ban 9
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+####
+#  #
+#  #
+# @###
+# $$ #
+#.  .#
+######
+Title: Be ban 7
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+#####
+#   #
+#.#$##
+#  @ #
+#. $ #
+###  #
+  ####
+Title: Be ban 1
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+###  #
+#.$$.#
+# #  #
+# @  #
+###  #
+  ####
+Title: Be ban 5
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+  ####
+###  #
+#    #
+#   .###
+### #@.#
+  # $$ #
+  #  $ #
+  #. ###
+  ####
+Title: Try ban 5
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/02
+ #####
+##...##
+# $$$.#
+# $+$ #
+#.$$$ #
+##..  #
+ ######
+Title: Surrounded
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+ ######
+##    #
+# $## ##
+#      #
+##  .@.#
+ #$# ###
+ #   #
+ #####
+Title: Be ban 3
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+ ####
+##  ####
+#      #
+# ..#$ #
+###  $ #
+  ###@ #
+    ####
+Title: The gun
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/06
+    #####
+    #   #
+##### # ##
+#  # $   #
+#   $  # #
+# .. #   #
+###@ #####
+  #  #
+  ####
+Title: Be ban 2
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+  #####
+  #   ###
+###@$.  #
+#  *#   #
+#   $. ##
+#####  #
+   #####
+Title: Try ban 11
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+####
+#  ####
+# .   #
+# @$$ #
+##  ###
+ #. #
+ #  #
+ ####
+Title: Be ban 14
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/07
+ #####
+##  .#
+# $#.#
+#    ##
+## #  #
+ #$ @ #
+ #   ##
+ #####
+Title: Be Ban 04
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+   #####
+   #   #
+####   #
+#.*   ##
+# $#  #
+#@ #  #
+#######
+Title: The dog
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/06
+####
+#.@#
+#  ###
+# $  #
+# $. #
+#  ###
+####
+Title: Be ban 6
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+   ####
+   #  #
+   #  #
+####  ####
+#   # $@ #
+#     $$.#
+### ###  #
+ ## .#####
+ #   #
+ #.  #
+ #####
+Title: Try ban 7
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/02
+     #
+    ###
+  ## @ ##
+ # . * . #
+# $.$*$.$ #
+#  ## ##  #
+#         #
+###########
+Title: The house
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+ #######
+ #    .#
+ # ###.#
+## #   #
+#  # $ #
+#  @ $##
+#  #  #
+#######
+Title: Be ban 11
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  ####
+###  ####
+#    #@.#
+#    $$.#
+#  ## $.#
+#####   #
+    #####
+Title: Try ban 6
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+ #####
+ # @ ###
+ # #   #
+##$.*# #
+# $.*  #
+# #  ###
+#    #
+######
+Title: For ban 21
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ##
+ #  #
+ #$@#
+ #.$##
+##.$  ##
+# .#   ##
+#       #
+#####   #
+    #####
+Title: The finger
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+####
+#  ###
+# @  #
+#. #$##
+##.$  #
+# $.# #
+# #   #
+#    ##
+###  #
+  ####
+Title: Try ban 1
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ #######
+##  #  ###
+# $ # $  #
+#  .@.   #
+##$ # $###
+ # . . #
+ #######
+Title: For ban 9
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+####
+#  #####
+#  .*. #
+# $ $ @#
+#   ####
+#####
+Title: Try ban 17
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+#######
+#. . .#
+#   # #
+##  $ #
+ # $$##
+ #  @#
+ #####
+Title: Try ban 19
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ####
+ #  ##
+##   ##
+# @$$ #
+# # # #
+#..   #
+#######
+Title: Be ban 8
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+  ####
+  # .#
+###  ##
+# $$  #
+#     #
+##$# ##
+ #.@.#
+ #####
+Title: Try ban 20
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/06
+  #####
+  #   #
+###$# ##
+#  $@$ #
+# #    #
+#... ###
+######
+Title: Try ban 21
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+######
+#    #
+#  .$#####
+##*+$    #
+ # .$#   #
+ ##  #####
+  ####
+Title: For ban 4
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #######
+## .   #
+# $*$# #
+# #@   #
+#  . ###
+######
+Title: Try ban 22
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #######
+##....@##
+#  $ #$ #
+#  $  $ #
+#  ##   #
+#########
+Title: For ban 8
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+   ####
+#### @#
+#  $$ #
+# . $ #
+##.. ##
+ #####
+Title: Try ban 10
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+########
+# .@.  #
+# $ $  #
+##*#*###
+#     #
+#     #
+#  ####
+####
+Title: For ban 35
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+#######
+# .   #
+#  $..#
+###$*###
+# $@   #
+#      #
+########
+Title: For ban 18
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+###  #
+#    ##
+# # ..#
+# $$$@#
+### # #
+  #  .#
+  #####
+Title: Try ban 14
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  #####
+###   #
+# $$$@#
+#... ##
+#    #
+######
+Title: Try ban 16
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  #####
+ ##   #
+ # @  #
+## $ ##
+# $* #
+# #. #
+#  .##
+#####
+Title: Try ban 18
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+  ####
+  #  #
+###$ ##
+#  $  #
+#@#*. ##
+#  *.  #
+###    #
+  ######
+Title: For ban 26
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+    #####
+  ###@  #
+  #. $ .#
+  #  $ ##
+ ### ###
+## $  #
+#     #
+#.  ###
+#####
+Title: Try ban 8
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/02
+####
+#  ##
+#@. #
+#..$##
+# $$ #
+#    #
+######
+Title: Try ban 15
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+  #  ###
+### .  #
+#@$$$  #
+#   #. #
+###.  ##
+  #####
+Title: Try ban 23
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ####
+ #  #
+ #  ####
+ # ..* #
+## $$@ #
+#   ####
+#   #
+#####
+Title: Try ban 28
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/08
+#####
+#   ###
+#  .$ ###
+## .# $ #
+ # .# $@#
+ ##.  $ #
+  #  ####
+  ####
+Title: For ban 10
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+####
+#  #####
+#    @ ##
+# .*.$* #
+##  #$  #
+ ##   ###
+  #####
+Title: The plane
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+    ####
+#####  #
+#   ..$##
+# $@# $ #
+##$..   #
+ #  ##  #
+ ########
+Title: For ban 6
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #####
+ #   #
+ # #$##
+##..@ #
+# *.$ #
+# # $##
+#    #
+######
+Title: For ban 17
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+###
+#.#####
+#...  #
+# # # ###
+#   $$ @#
+###  $$ #
+  ###   #
+    #####
+Title: For ban 27
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ ########
+ #  ## .#
+##   $  #
+#  $#$ .#
+#   #@ ##
+#. ##  #
+########
+Title: Try ban 4
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/02
+ #####
+ #   #
+##   ###
+# $$$$ #
+# .... #
+## @ ###
+ #####
+Title: For ban 37
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+########
+#.. @..#
+#  $$$ #
+#### ####
+#       #
+#     $ #
+#  ######
+####
+Title: For ban 5
+Collection: Novoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01

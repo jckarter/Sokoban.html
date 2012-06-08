@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Sokoban</title>
+    <style type="text/css">
+	@import "Sokoban.css";
+    </style>
+    <script type="text/javascript" src="SokobanObject.js"></script>
+    <script type="text/javascript" src="SokobanSetNovoban.js"></script>
+    <script type="text/javascript" src="SokobanSetSokolate.js"></script>
+    <script type="text/javascript" src="SokobanSetSokompact.js"></script>
+    <script type="text/javascript" src="SokobanSetKokoban.js"></script>
+    <script type="text/javascript" src="SokobanSetMinicosmos.js"></script>
+    <script type="text/javascript" src="SokobanSetMicrocosmos.js"></script>
+    <script type="text/javascript" src="SokobanSetNabokosmos.js"></script>
+    <script type="text/javascript" src="SokobanSetPicokosmos.js"></script>
+    <script type="text/javascript" src="SokobanSetMicroban.js"></script>
+    <script type="text/javascript" src="SokobanSetSasquatch.js"></script>
+    <script type="text/javascript" src="SokobanSetSasquatch2.js"></script>
+    <script type="text/javascript" src="SokobanSetSasquatch3.js"></script>
+    <script type="text/javascript" src="SokobanSetGrigr2001.js"></script>
+    <script type="text/javascript" src="SokobanSetGrigr2002.js"></script>
+    <script type="text/javascript" src="SokobanSetGrigrSpecial.js"></script>
+    <script type="text/javascript" src="SokobanSetYoshio.js"></script>
+    <script type="text/javascript" src="SokobanEventHandlers.js"></script>
+</head>
+<body onload="body_onload();" onkeydown="body_onkeydown(event);">
+    <div id="front" onmousemove="front_onmousemove();" onmouseout="front_onmouseout();">
+	<table id="border">
+	    <tr><td class="ul-corner"></td> <td class="u-side"></td> <td class="ur-corner"></td></tr>
+	    <tr><td class="l-side"></td> <td id="statusbar">
+    		<div id="statusbarButtons">
+		    <div class="button" id="prevPuzzle" onclick="prevPuzzle_onclick();">&lt;</div>
+		    <div class="button" id="nextPuzzle" onclick="nextPuzzle_onclick();">&gt;</div>
+		</div>
+		<div id="statusbarText"></div>
+	    </td> <td class="r-side"></td></tr>
+	    <tr><td class="l-side"></td> <td class="separator"></td> <td class="r-side"></td></tr>
+	    <tr><td class="l-side"></td> <td id="center" onmousemove="center_onmousemove();" onmouseout="center_onmouseout();">
+		<div id="shroud">
+		    <div id="playfieldContainer"></div>
+		    <table id="playfield">
+			<tbody id="placeholder">
+			    <tr><td><div>Loading…</div></td></tr>
+			</tbody>
+		    </table>
+		</div>
+	    </td> <td class="r-side"></td></tr>
+	    <tr><td class="l-side"></td> <td class="separator"></td> <td class="r-side"></td></tr>
+	    <tr><td class="l-side"></td> <td id="buttonbar">
+		<div class="button" id="undo" onclick="undo_onclick();">Undo</div>
+		<div class="button" id="reset" onclick="reset_onclick();">Reset</div>
+		<img id="infoButton" src="images/white_i.png" onclick="infoButton_onclick();" alt="i" />
+	    </td> <td class="r-side"></td></tr>
+	    <tr><td class="bl-corner"></td> <td class="b-side"></td> <td class="br-corner"></td></tr>
+	</table>
+    </div>
+
+    <div id="back">
+	<div class="controlLabel" id="puzzleSetLabel">Puzzle Set:</div>
+	<select class="control" id="puzzleSetControl" onchange="puzzleSetControl_onchange();"></select>
+	<div class="controlLabel" id="puzzleSetMetadata">
+	    <span id="puzzleSetAuthor" onclick="puzzleSetAuthor_onclick();"></span><br />
+	    <span id="puzzleSetCount"></span>
+	</div>
+	<div class="controlLabel" id="puzzleNumberLabel">Puzzle Number:</div>
+	<input class="control" id="puzzleNumberControl" type="text" maxlength="3" onchange="puzzleNumberControl_onchange();" />
+	<div class="controlLabel" id="help">
+	    Use the arrow keys to move.<br />
+	    "R" resets the puzzle.<br />
+	    "U" undoes moves one at a time.
+	</div>
+	<div class="controlLabel" id="versionTag" onclick="versionTag_onclick();">1.1 &bull; widget by Joe Groff</div>
+	<input class="control" id="doneControl" type="button" value="Done" onclick="doneControl_onclick();" />
+    </div>
+</body>
+</html>

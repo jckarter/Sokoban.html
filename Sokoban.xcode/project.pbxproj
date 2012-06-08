@@ -1,0 +1,538 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 39;
+	objects = {
+		D82CAE94084B833F00692DC8 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetNovoban.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D82CAE95084B833F00692DC8 = {
+			fileRef = D82CAE94084B833F00692DC8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D82CAEA2084B857800692DC8 = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetSokolate.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D82CAEA3084B857800692DC8 = {
+			fileRef = D82CAEA2084B857800692DC8;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D85C987608536D32002B224C = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetMicrocosmos.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D85C987708536D32002B224C = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetMinicosmos.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D85C987808536D32002B224C = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetNabokosmos.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D85C987908536D32002B224C = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetPicokosmos.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D85C987A08536D32002B224C = {
+			fileRef = D85C987608536D32002B224C;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D85C987B08536D32002B224C = {
+			fileRef = D85C987708536D32002B224C;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D85C987C08536D32002B224C = {
+			fileRef = D85C987808536D32002B224C;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D85C987D08536D32002B224C = {
+			fileRef = D85C987908536D32002B224C;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D85C988708537032002B224C = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetKokoban.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D85C988808537032002B224C = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetSokompact.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D85C988908537032002B224C = {
+			fileRef = D85C988708537032002B224C;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D85C988A08537032002B224C = {
+			fileRef = D85C988808537032002B224C;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8808623083C526B005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanEventHandlers.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808624083C526B005E44AE = {
+			fileRef = D8808623083C526B005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D880864C083C5B5A005E44AE = {
+			children = (
+				D8808652083C5CF0005E44AE,
+			);
+			isa = PBXGroup;
+			name = "Support Scripts";
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808652083C5CF0005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.script.perl;
+			path = "xsb-to-js.pl";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808664083C5E5B005E44AE = {
+			children = (
+				D8808A14083EE311005E44AE,
+				D8808A15083EE311005E44AE,
+				D880866E083C6009005E44AE,
+			);
+			isa = PBXGroup;
+			name = "Sokoban Sets";
+			path = "";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D880866E083C6009005E44AE = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			name = sasquatch.txt;
+			path = "Sokoban Sets/sasquatch.txt";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D88086A5083C64CA005E44AE = {
+			fileEncoding = 30;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetSasquatch.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D88086A6083C64CA005E44AE = {
+			fileRef = D88086A5083C64CA005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D88088A6083D737E005E44AE = {
+			isa = PBXFileReference;
+			lastKnownFileType = folder;
+			path = images;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D88088B0083D737E005E44AE = {
+			fileRef = D88088A6083D737E005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8808A14083EE311005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			name = "mas sasquatch.txt";
+			path = "Sokoban Sets/mas sasquatch.txt";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808A15083EE311005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text;
+			name = microban.txt;
+			path = "Sokoban Sets/microban.txt";
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808A18083EE495005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetSasquatch2.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808A19083EE495005E44AE = {
+			fileRef = D8808A18083EE495005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8808A24083EE4FE005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetMicroban.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808A25083EE4FE005E44AE = {
+			fileRef = D8808A24083EE4FE005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8808A42083EE690005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetSasquatch3.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808A43083EE690005E44AE = {
+			fileRef = D8808A42083EE690005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8808BB1083F8646005E44AE = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = Default.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8808BB2083F8646005E44AE = {
+			fileRef = D8808BB1083F8646005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D88090FC0842D636005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanObject.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D88090FD0842D636005E44AE = {
+			fileRef = D88090FC0842D636005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D88093390846D7C8005E44AE = {
+			fileRef = D8808652083C5CF0005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D88093480846D8D1005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetGrigr2001.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D88093490846D8D1005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetGrigr2002.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D880934A0846D8D1005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetGrigrSpecial.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D880934B0846D8D1005E44AE = {
+			fileRef = D88093480846D8D1005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D880934C0846D8D1005E44AE = {
+			fileRef = D88093490846D8D1005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D880934D0846D8D1005E44AE = {
+			fileRef = D880934A0846D8D1005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D880935F0846DEAA005E44AE = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.javascript;
+			path = SokobanSetYoshio.js;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D88093600846DEAA005E44AE = {
+			fileRef = D880935F0846DEAA005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D88093AD084823B5005E44AE = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			path = Icon.png;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D88093AE084823B5005E44AE = {
+			fileRef = D88093AD084823B5005E44AE;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8BD29E7083A5803002D5574 = {
+			children = (
+				D8BD29F2083A5823002D5574,
+				D8808664083C5E5B005E44AE,
+				D880864C083C5B5A005E44AE,
+				D8BD2A13083A6418002D5574,
+			);
+			isa = PBXGroup;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8BD29E9083A5803002D5574 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			isa = PBXBuildStyle;
+			name = Development;
+		};
+		D8BD29EA083A5803002D5574 = {
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+			};
+			isa = PBXBuildStyle;
+			name = Deployment;
+		};
+		D8BD29EB083A5803002D5574 = {
+			buildSettings = {
+			};
+			buildStyles = (
+				D8BD29E9083A5803002D5574,
+				D8BD29EA083A5803002D5574,
+			);
+			hasScannedForEncodings = 0;
+			isa = PBXProject;
+			mainGroup = D8BD29E7083A5803002D5574;
+			projectDirPath = "";
+			targets = (
+				D8BD29F6083A5866002D5574,
+			);
+		};
+		D8BD29F2083A5823002D5574 = {
+			children = (
+				D88088A6083D737E005E44AE,
+				D8BD2A59083A6BFF002D5574,
+				D8BD29F5083A5834002D5574,
+				D8BD2A01083A5B9E002D5574,
+				D88090FC0842D636005E44AE,
+				D85C987708536D32002B224C,
+				D85C987608536D32002B224C,
+				D85C987808536D32002B224C,
+				D85C987908536D32002B224C,
+				D82CAE94084B833F00692DC8,
+				D82CAEA2084B857800692DC8,
+				D85C988808537032002B224C,
+				D85C988708537032002B224C,
+				D8808A24083EE4FE005E44AE,
+				D88086A5083C64CA005E44AE,
+				D8808A18083EE495005E44AE,
+				D8808A42083EE690005E44AE,
+				D88093480846D8D1005E44AE,
+				D88093490846D8D1005E44AE,
+				D880934A0846D8D1005E44AE,
+				D880935F0846DEAA005E44AE,
+				D8808623083C526B005E44AE,
+				D8808BB1083F8646005E44AE,
+				D88093AD084823B5005E44AE,
+			);
+			isa = PBXGroup;
+			name = Files;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8BD29F5083A5834002D5574 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.html;
+			path = Sokoban.html;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8BD29F6083A5866002D5574 = {
+			buildPhases = (
+				D8BD29F8083A5871002D5574,
+			);
+			buildSettings = {
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = Sokoban.wdgt;
+				SECTORDER_FLAGS = "";
+				WARNING_CFLAGS = "-Wmost -Wno-four-char-constants -Wno-unknown-pragmas";
+			};
+			dependencies = (
+			);
+			isa = PBXAggregateTarget;
+			name = Sokoban.wdgt;
+			productName = Sokoban.wdgt;
+		};
+		D8BD29F8083A5871002D5574 = {
+			buildActionMask = 2147483647;
+			dstPath = Sokoban.wdgt;
+			dstSubfolderSpec = 1;
+			files = (
+				D8BD29FC083A58B5002D5574,
+				D8BD2A02083A5B9E002D5574,
+				D8BD2A5A083A6BFF002D5574,
+				D8808624083C526B005E44AE,
+				D88086A6083C64CA005E44AE,
+				D88088B0083D737E005E44AE,
+				D8808A19083EE495005E44AE,
+				D8808A25083EE4FE005E44AE,
+				D8808A43083EE690005E44AE,
+				D8808BB2083F8646005E44AE,
+				D88090FD0842D636005E44AE,
+				D88093390846D7C8005E44AE,
+				D880934B0846D8D1005E44AE,
+				D880934C0846D8D1005E44AE,
+				D880934D0846D8D1005E44AE,
+				D88093600846DEAA005E44AE,
+				D88093AE084823B5005E44AE,
+				D82CAE95084B833F00692DC8,
+				D82CAEA3084B857800692DC8,
+				D85C987A08536D32002B224C,
+				D85C987B08536D32002B224C,
+				D85C987C08536D32002B224C,
+				D85C987D08536D32002B224C,
+				D85C988908537032002B224C,
+				D85C988A08537032002B224C,
+			);
+			isa = PBXCopyFilesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D8BD29FC083A58B5002D5574 = {
+			fileRef = D8BD29F5083A5834002D5574;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8BD2A01083A5B9E002D5574 = {
+			explicitFileType = text;
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			path = Sokoban.css;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8BD2A02083A5B9E002D5574 = {
+			fileRef = D8BD2A01083A5B9E002D5574;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+		D8BD2A13083A6418002D5574 = {
+			children = (
+			);
+			isa = PBXGroup;
+			name = Products;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8BD2A59083A6BFF002D5574 = {
+			fileEncoding = 4;
+			isa = PBXFileReference;
+			lastKnownFileType = text.xml;
+			path = Info.plist;
+			refType = 4;
+			sourceTree = "<group>";
+		};
+		D8BD2A5A083A6BFF002D5574 = {
+			fileRef = D8BD2A59083A6BFF002D5574;
+			isa = PBXBuildFile;
+			settings = {
+			};
+		};
+	};
+	rootObject = D8BD29EB083A5803002D5574;
+}

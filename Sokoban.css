@@ -1,0 +1,308 @@
+#front, #back {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+table#playfield, table#border {
+    border: 0;
+    margin: 0;
+    border-spacing: 0;
+}
+
+table#playfield thead td {
+    height: 0;
+}
+
+#playfieldContainer {
+    position: relative;
+    border: 0;
+    width: 0;
+    height: 0;
+    margin: auto;
+}
+
+table#playfield {
+    padding: 5px;
+    margin: auto;
+    z-index: 25;
+}
+
+td, tr {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.ul-corner, .ur-corner {
+    width: 15px;
+    height: 12px;
+}
+
+.bl-corner, .br-corner {
+    width: 15px;
+    height: 18px;
+}
+
+.l-side, .r-side {
+    width: 15px;
+}
+
+.u-side {
+    height: 12px;
+}
+
+.b-side {
+    height: 18px;
+}
+
+#center {
+    background-color: #eee;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+}
+
+.centerpad {
+    background-color: #eee;
+}
+
+.separator {
+    height: 6px;
+    background-color: #c00;
+}
+
+.ul-corner {
+    background-image: url(images/ul-corner.png);
+}
+
+.ur-corner {
+    background-image: url(images/ur-corner.png);
+}
+
+.bl-corner {
+    background-image: url(images/bl-corner.png);
+}
+
+.br-corner {
+    background-image: url(images/br-corner.png);
+}
+
+.l-side {
+    background-image: url(images/l-side.png);
+}
+
+.r-side {
+    background-image: url(images/r-side.png);
+}
+
+.u-side {
+    background-image: url(images/u-side.png);
+}
+
+.b-side {
+    background-image: url(images/b-side.png);
+}
+
+table#playfield td {
+    width: 12px;
+    height: 12px;
+}
+
+#placeholder div {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    width: 178px;
+    height: 129px;
+    vertical-align: middle;
+}
+
+#placeholder td {
+    vertical-align: middle;
+}
+
+div.player, div.player-won, div.boulder, div.boulder-in-hole {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    z-index: 50;
+}
+
+div.player {
+    background-image: url(images/player.png);
+    z-index: 52;
+}
+
+div.player-won {
+    background-image: url(images/player-won.png);
+    z-index: 52;
+}
+
+div.boulder {
+    background-image: url(images/boulder.png);
+}
+
+div.boulder-in-hole {
+    background-image: url(images/boulder-in-hole.png);
+    z-index: 51;
+}
+
+td.space {
+}
+
+td.wall {
+    background-color: #999;
+}
+
+td.hole {
+    background-image: url(images/hole.png);
+}
+
+.button {
+    border: 1px outset;
+    padding: 1px 5px;
+    margin-left: 4px;
+    cursor: pointer;
+    float: left;
+    -apple-dashboard-region: dashboard-region(control rectangle);
+}
+
+#statusbar .button {
+    font-size: 80%;
+    padding: 0 3px;
+}
+
+#buttonbar {
+    background-color: #666;
+    height: 19px;
+    font-family: Helvetica, sans-serif;
+    font-size: 9px;
+    font-weight: bold;
+    color: #fff;
+}
+
+#statusbar {
+    font-family: Helvetica, sans-serif;
+    height: 15px;
+    background-color: #ffc;
+    font-size: 11px;
+    font-weight: normal;
+    color: black;
+    vertical-align: middle;
+    padding-left: 5px;
+    padding-top: 1px;
+    margin: 0;
+}
+
+#statusbarText {
+    width: 180px;
+}
+
+#statusbarButtons {
+    float: left;
+    margin-right: 5px;
+    margin-left: -5px;
+}
+
+#infoButton {
+    vertical-align: bottom;
+    cursor: pointer;
+    margin-left: 10px;
+    float: right;
+    -apple-dashboard-region: dashboard-region(control circle);
+    opacity: 0;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 10pt;
+}
+
+/******************************/
+
+#back {
+    display: none;
+    background-color: #222;
+    width: 200px;
+    height: 200px;
+    padding: 0;
+    margin: 6px 9px;
+}
+
+.controlLabel, .control {
+    position: absolute;
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    font-size: 8pt;
+}
+
+.controlLabel {
+    color: #fff;
+    font-weight: bold;
+}
+
+#puzzleSetLabel {
+    left: 8px;
+    top: 6px;
+}
+
+#puzzleSetControl {
+    left: 8px;
+    top: 20px;
+    width: 185px;
+}
+
+#puzzleSetMetadata {
+    left: 8px;
+    top: 48px;
+}
+
+#puzzleSetAuthor {
+    cursor: pointer;
+}
+
+#puzzleNumberLabel {
+    left: 8px;
+    top: 98px;
+}
+
+#puzzleNumberControl {
+    left: 100px;
+    top: 96px;
+    width: 30px;
+    text-align: right;
+}
+
+#help {
+    left: 8px;
+    top: 124px;
+    width: 184px;
+    font-weight: normal;
+    color: #eee;
+}
+
+#doneControl {
+    left: 137px;
+    top: 178px;
+    width: 60px;
+}
+
+#versionTag {
+    left: 4px;
+    top: 184px;
+    cursor: pointer;
+    font-family: Lucida Grande;
+    font-size: 7pt;
+    font-weight: normal;
+    color: #999;
+    border-bottom: 1px solid #444;
+}

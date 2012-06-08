@@ -1,0 +1,698 @@
+######
+#    #
+# $ $##
+# #@$ #
+# * # #
+## .. #
+ #  .##
+ #####
+Title: For ban 46
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #####
+ #   #
+##*$@####
+# .*$   #
+#  .*$  #
+## #. ###
+ #    #
+ ######
+Title: Hexa ban 1
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  #####
+ ##   #
+ #  # #
+##$..$#
+# .$$.##
+# $..$ #
+## #@  #
+ #   ###
+ #####
+Title: Hexa ban 2
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03 François Marques <sokoban@online.fr>
+
+  #####
+  #@  ##
+###.   #
+# $*$  #
+#  . ###
+## * #
+ #  ##
+ ####
+Title: For ban 7
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+ ##  #
+ # $ #
+## * #
+# ..@##
+#  *  #
+###$  #
+  #  ##
+  ####
+Title: For ban 16
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+   ####
+ ###  #
+## $$ ###
+# ....  #
+#  $$   #
+### @####
+  ####
+Title: For ban 32
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+ ######
+ #    #
+## ## #
+#  $. #
+# ***.#
+## $@ #
+ #   ##
+ #####
+Title: Penta ban 4
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+ #####
+ #   ###
+## $$  #
+# * .*.#
+#.*. * #
+# @$$ ##
+###   #
+  #####
+Title: Octo ban 1
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+###. #
+# $ .##
+# # ..#
+# @ # #
+# $$$ #
+##   ##
+ #  ##
+ ####
+Title: For ban 38
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+ ######
+ #    #
+ #$$@ #
+ #..###
+##.*  #
+#  $  #
+#  # ##
+##   #
+ #####
+Title: For ban 13
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+ ##@ #
+ # $ #
+## * #
+#  ..#
+#  * #
+###$ #
+  #  #
+  ####
+Title: Level 1
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  #####
+###   #
+#  @# #
+# #...##
+# $.$. #
+##$$$# #
+ #     #
+ #######
+Title: Penta ban 7
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+   #
+  ##
+ #  #
+ # $ #
+# .$.#
+# $.$ #
+# .$. #
+###@###
+ #  #
+ #  #
+ #  #
+ ####
+Title: The arrow
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+ ##  #
+ # . ##
+## *  ##
+# *$*  #
+#  *   #
+#  @####
+#####
+Title: Penta ban 6
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+ #####
+ #   #
+## *$###
+# *@*  #
+# .*   #
+##   ###
+ #  ##
+ ####
+Title: Penta ban 8
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+ #####
+ # . ##
+## $  #
+# * * ##
+# ***  #
+#  @   #
+########
+Title: Hexa ban 15
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #####
+ #   ####
+ # #    #
+ #$$..  #
+## ** ###
+# ..$$#
+#  #  #
+## @ ##
+ #####
+Title: Hexa ban 4
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+  #  ###
+ ##    #
+## $.$ ##
+# .***. #
+#  $.$  #
+### @ ###
+  #  ##
+  ####
+Title: Hepta ban 1
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+
+  #####
+###   ####
+# .$.$@  #
+#  $.$.  #
+### # ####
+  #   #
+  #####
+Title: For ban 28
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+ ####
+ #  #
+ #  ##
+ # . ##
+ #$*  ##
+## **  #
+#   *$ #
+# @ .###
+###  #
+  ####
+Title: Hexa ban 11
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  #####
+ ## @ ##
+## $.$ ##
+# .***. #
+#  $.$  #
+##     ##
+ ###  ##
+   ####
+Title: Hepta ban 2
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+
+  ####
+ ##  #
+## . ###
+# $  $ #
+# ..$  #
+#####@ #
+    ####
+Title: Try ban 27
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ######
+##    ##
+#   #. ##
+# # @*$ #
+#  .*   #
+####$ ###
+   #  #
+   ####
+Title: For ban 20
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+#######
+#  #  ##
+#  #   #
+# .*$# #
+#  *@  #
+# .*$###
+## # #
+ #   #
+ #####
+Title: Reverse
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+ ##  #
+##   #
+# $ $##
+# ... #
+# $.$ #
+##@.$##
+ ##  #
+  ####
+Title: Penta ban 11
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+
+  #####
+  #   #
+##@ # ##
+#  $$..##
+# #.$$. #
+#  ..$$ #
+####  ###
+   #  #
+   ####
+Title: Hexa ban 6
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  #####
+  #   ##
+###.   #
+# $**  #
+# *@*.##
+#  *$ #
+##    #
+ ######
+Title: Hepta ban 3
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  ####
+ ## @###
+## $$$.#
+#  .$..###
+#  ..$.  #
+###.$$$  #
+  #   ####
+  #####
+Title: Octo ban 6
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+
+   ####
+   #  #
+  ##$ ###
+###  .  #
+# .*$*  #
+# # @ ###
+#   ###
+#####
+Title: For ban 39
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+ #####
+ #   #
+ # # #
+##..$###
+# $*$  #
+# $..  #
+#  @####
+##  #
+ ####
+Title: Penta ban 12
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+
+    ###
+  ##  #
+ # $  #
+# .* .#
+#  $  #
+###@#*#
+  #   #
+  #####
+Title: For ban 47
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+
+    ####
+#####  #
+#  ##  #
+#   $*.#
+#  #*@*##
+##  .*$ #
+ ## #   #
+  #   ###
+  #####
+Title: Hexa ban 7
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+ ##  ##
+ #    #
+##*$* ##
+# .@.  #
+# *$*  #
+#   ####
+#####
+Title: Hexa ban 14
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #####   
+ #   ### 
+## *.* ##
+#  $*$  #
+#  *.*  #
+### @  ##
+  #  ### 
+  ####   
+Title: H to I
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  ####
+###  #
+# $  ###
+#@#.$  #
+# $ $# #
+## . ..#
+ #  ####
+ ####
+Title: For ban 48
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/08
+ ####
+##  ####
+# .$$  #
+# .@.  #
+# $$. ##
+###  ##
+  ####
+Title: For ban 49
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+#####
+#   #
+#   #
+#*+*#
+#   #
+#*$*####
+#      #
+#  #   #
+########
+Title: The boot
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/08
+  ####
+  #  #
+###  ##
+#  $$ #
+# #*. #
+# . . #
+##$#@##
+ #   #
+ #####
+Title: For ban 50
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  #####
+### @ ###
+#  .$.  #
+#  ***  #
+###$.$###
+  #   #
+  #   #
+  #  ##
+  #####
+Title: R.I.P.
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+   ##
+  #  #
+ ##. #
+ # . #
+##$.$###
+#@$.$  #
+# $.   #
+###  ###
+  ####
+Title: The sword
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+
+  ####
+  #  #
+###  #
+# $$ ###
+#. .$. #
+# .*.  #
+##$ $###
+ # @ #
+ #####
+Title: Hexa ban 18
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/09/19
+
+ #####
+ # @ #
+##$ $#
+#  $ ###
+# .*.  #
+##.*.  #
+ # $ ###
+ # * #
+ #  ##
+ ####
+Title: Halloween
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/10/30
+Comment:
+Un petit air de Picokosmos 12, créé par Aymeric un jour avant, mais la résolution est très différente !
+Comment-End: ####
+ # @#
+ #  #
+##$$###
+#     #
+# #   #
+#.*.*##
+##   #
+ #  ##
+ ####
+Title: The pot of flowers
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/05
+###
+#  ####
+# $@$  #
+# $#...#
+#  *** #
+#     #
+####  #
+    ##
+Title: Air line
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/06
+###
+#  ######
+#    $   #
+#  **.**  #
+#   *@*   #
+##########
+Title: The Shuttle
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/09
+  ####
+  #  #
+###  ###
+#   $$ #
+#+**...#
+#   $$ #
+###  ###
+  #  #
+  ####
+Title: Plus - Minus
+Collection: Sokompact
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/29

@@ -1,0 +1,575 @@
+ #####
+## . ##
+#  *  #
+# $$$ #
+# .*. #
+## @ ##
+ #####
+Title: Penta ban 3
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+  #####
+  #   #
+### # #
+# . * #
+#  $#$###
+##. * @ #
+ #  #   #
+ ########
+Title: For ban 51
+Collection: Sokolate
+Author: François Marques
+CAuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/08
+ #######
+ #  .  #
+## #.# #
+# $$@$ #
+#   . ##
+#######
+Title: Try ban 2
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+  #  #
+### .###
+#  $$  #
+# #+.# #
+#  $$  #
+###. ###
+  #  #
+  #  #
+  ####
+Title: The crucifix
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ ####
+ #  ####
+## . $ #
+#  * # #
+#  $ . #
+###*#@##
+  #   #
+  #####
+Title: For ban 43
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ####
+ #  #
+ # @#
+ #$.#
+##.$####
+# $.   #
+# .$   #
+#  #####
+####
+Title: ForBoxes 30
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ #######
+ #  #  #
+##  #  ##
+# . @ . #
+# #*#*# #
+#   $   #
+### $####
+  #  #
+  ####
+Title: Split
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+###  ###
+# * $  #
+# *.@* #
+# *  # #
+# ##*# #
+#      #
+########
+Title: Hexa ban 13
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #####
+##   ###
+# ..$$ #
+#   $@ #
+##.# ###
+ #   #
+ #####
+Title: Try ban YZ
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ####
+ #  ##
+##   ##
+#  $  #
+#.#*#*##
+#  @   #
+#  #   #
+########
+Title: Try ban ZX
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+#####
+#.  ##
+# #$ ###
+#..@   #
+#.$$$  #
+###   ##
+  #####
+Title: For ban 45
+Collection: Sokolate
+Author: François Marques
+CAuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ####
+ #  #
+##.$###
+# . $ #
+# .$#@#
+# . $ #
+#   ###
+#####
+Title: ForBoxes 25
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+  #  ###
+###  $ #
+# ...@ #
+# $# $ #
+# $..$##
+#  #  #
+#######
+Title: Penta ban 16
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  #####
+ ##   #
+ # $  #
+ #.*$##
+## * #
+#  . #
+#  @ #
+######
+Title: For ban 14
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ ####
+ #  ###
+ # *$ #
+ # .# #
+## *  #
+#  *@ #
+#   ###
+#####
+Title: For ban 12
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+#####
+#   ##
+# #  #
+# $..##
+##$.. #
+# @$$ #
+#   ###
+#####
+Title: ForBoxes 31
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+  #  #
+###  ###
+#  $$$ #
+# ...# #
+# #... #
+# $$$@##
+###   #
+  #####
+Title: Hexa ban 12
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  #####
+ ##   #
+ #    #
+## * $##
+#  **  #
+#  .**@#
+###  ###
+  #  #
+  ####
+Title: Hexa ban 3
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+    #####
+ ####   #
+ #  #   #
+## * * ##
+# *.*$@#
+#  * * #
+##     #
+ #######
+Title: Hepta ban 8
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+   ####
+####  #
+# $   ##
+#  *.. #
+#  *$. #
+##$.*$ #
+ # @ ###
+ #####
+Title: Hepta ban 9
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  ####
+###  ##
+#  $  #
+#@.*. #
+## $  #
+ ###  #
+   ####
+Title: Try ban 13
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ ######
+ #    #
+ #$## #
+##....#
+# $#  #
+#@$   #
+# $  ##
+##  ##
+ ####
+Title: For ban 3
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+   #####
+  ##.  #
+  # .  #
+ ##*#.##
+##   $ #
+#   $$@#
+#    ###
+###  #
+  ####
+Title: For ban 19
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+#####
+# @ #
+#$$$##
+# $  #
+#  # #
+#....#
+#    #
+######
+Title: Level 6
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+    ####
+#####  #
+#   $  #
+# @*** #
+# # . ##
+#   ###
+#####
+Title: For ban 36
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ ####
+ # .####
+ #    .#
+ #$$$$@#
+## # ###
+#   . #
+# .   #
+#######
+Title: For ban 40
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+#######
+#  #  #
+# $ @ #
+# *** #
+# # * #
+# .   #
+#######
+Title: Penta ban 19
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  ####
+  #  #
+ ##  ###
+## $ $ #
+#+*..*.##
+## $ $  #
+ #  #   #
+ ########
+Title: Hexa ban 16
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  ####
+###  #
+#  $@##
+# # $ #
+# $ # #
+## ...#
+ #   ##
+ #####
+Title: Try ban 12
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+#####
+#   ###
+# # $ #
+# **.+#
+#   $ #
+#   ###
+#####
+Title: For ban XX
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #######
+##   . #
+#    $ #
+# #$#*##
+#  $ $ #
+###@.. #
+  # .###
+  ####
+Title: Penta ban 5
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+####
+#  ####
+# .  .#
+# . # #
+#  $  #
+##$$###
+ # @#
+ ####
+Title: The rabbit
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+#####
+#   ###
+#     #
+##  # ###
+ # $**  #
+ ##@.*  #
+  #  ####
+  #  #
+  ####
+Title: ForBoxes 22
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+  #@ #
+###$$###
+#      #
+# $#  .#
+##.   ##
+ ### .#
+   ####
+Title: Try ban ZY
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+#####
+#.  ####
+#..    #
+#. # # ###
+##    $  ##
+ ###  $$$@#
+   ####   #
+      #####
+Title: ForBoxes 23
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+  ####
+  # .###
+### .. #
+#  $  .#
+#   # ##
+##$$$ #
+ # @###
+ ####
+Title: For ban 42
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/04
+ #####
+ #   ####
+##.#$#  #
+#   $   #
+# **.*  #
+##  @  ##
+ #######
+Title: Penta ban 17
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ####
+ #  ####
+##  .  #
+#  $.$ ##
+# $*#*@ #
+## .$.  #
+ #  #####
+ #  #
+ ####
+Title: Hexa ban 17
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/06
+#######
+#  .  ##
+#  *#$ ##
+##@.$   #
+ # *#$  #
+ # .  ###
+ #  ###
+ ####
+Title: Penta ban 15
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ #####
+ #   #
+##.#$###
+#   $  #
+# **.*@##
+##      #
+ ####   #
+    #####
+Title: Penta ban 18
+Collection: Sokolate
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  ####
+  #@ #
+ ##$$#
+ #   ##
+##.#. #
+# * * ##
+#      #
+####   #
+   #####
+Title: L'ai-je bien descendu ?
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/07

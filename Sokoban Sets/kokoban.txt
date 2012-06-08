@@ -1,0 +1,554 @@
+ #######
+## + $ ###
+#  * *   #
+# *#$#*  #
+#  * *   #
+##   . ###
+ #######
+Title: The bubble
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+
+ #####
+## @ ##
+#  $  #
+# .$. #
+##$.$##
+# .$. #
+# $.$ #
+# .$. #
+##   ##
+ #####
+Title: Level 8
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  #####
+  #...#
+  #  .#
+  #  .#
+####  ####
+#    #   #
+# $$@$   #
+## ##   ##
+# $ $ ###
+#     #
+#######
+Title: Penta ban 1
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/02
+
+     ######
+######    #
+#    # $  #
+#  $ ##$  #
+# $$. ..  #
+#  #.##.####
+####.##.#  #
+ #  ....$$ #
+ # $$## $  #
+ ##@$ #    #
+  #   ######
+  #####
+Title: The windmill
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+
+ #######
+##  +  ##
+#  * *  #
+# * * * #
+#  *$*  #
+# * * * #
+#  * *  #
+##     ##
+ #######
+Title: The diamond
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2000/01
+
+ #######
+##  +  ##
+#  * *  #
+# # # # #
+#  *$*  #
+# # # # #
+#  * *  #
+##     ##
+ #######
+Title: The diamond revisited
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+
+ #######
+##  +  ##
+#  # *  #
+# * * # #
+#  *$*  #
+# # # * #
+#  * #  #
+##     ##
+ #######
+Title: Déjà vu ?
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/01
+
+   ####
+   #. ###
+   #    #
+   #.# @####
+####.# $#  #
+#    # $   #
+#      ##$ ##
+#.   ##   $ #
+#######     #
+      ##   ##
+       #####
+Title: Move my body
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/02
+
+  ####
+  #  #
+###  #####
+# $. #   #
+#@$  $   #
+##$##$  ##
+# . . ###
+# . . #
+#######
+Title: Penta ban 2
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+   ####
+  ##  #
+ ## $ ##
+## *.* ##
+# $. .$ #
+#  *.*  #
+### $   #
+  # @ ###
+  #####
+Title: Squares
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+
+  #####
+  #   ###
+  #  .  #
+### * * #
+#   $#$##
+#   *@* #
+#  # .  #
+#########
+Title: Hexa ban 5
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+ #### ####
+ #  # #  #
+ #  ###  #
+ #$$...$$#
+ #  .#.  #
+##$$.+.$$##
+#   ###   #
+#   # #   #
+##### #####
+Title: Octo ban 7
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ### ###
+#. ### .#
+#.  #  .#
+#@$$#   #
+ #     #
+#  $# $ #
+#   #   #
+ ### ###
+Title: The butterfly
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/03
+#######
+#     #
+# #.*$####
+# # @ *  #
+# *$*.*  #
+###     ##
+  #  ####
+  ####
+Title: Hepta ban 5
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  #####
+  #   #
+###$@$###
+#  *.*  #
+# #*$*# #
+#  .#.  #
+#       #
+#  ######
+####
+Title: Hepta ban 6
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+   ####
+####  ###
+#    $  #
+# #$#$# ##
+#@.*.*.. #
+#  $     #
+#  #######
+####
+Title: Hexa ban 10
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+    ####
+  ###  ##
+###  @  #
+#  $.*.$##
+#   ***  #
+###$.*.$ #
+  #    ###
+  #  ###
+  ####
+Title: Nano ban 1
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ######
+ #    ##
+ #  #  #
+##$.$.$##
+# $.$.$ #
+# .$.$. #
+# .$+$.##
+##  #  #
+ #######
+Title: Deca ban 3
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/06
+    #####
+    #   ##
+  ###$   #
+ ## .*.  #
+## $ $*$##
+# .*+ . #
+#  $*$ ##
+### .  #
+  ######
+Title: Deca ban 2
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/06
+  ####
+ ##  #
+ #   ###
+ # *** #
+## . $ #
+#  *@* #
+#  $ . #
+## *** #
+ ###   #
+   #####
+Title: Des cabanes
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+  ######
+  #    ##
+  # #   #
+###.*.  #
+# $  * ##
+#  *.* #
+# $#$###
+##  @#
+ #####
+Title: Hepta ban 7
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/05
+ ####  ####
+##  ####  #
+#         #
+#  $ # $  #
+#  #*.*#  #
+### . .####
+ #  *.*  #
+ # $ ##$ #
+ #  # # @#
+ #### ####
+Title: The robot
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/09
+#######
+#  #  #
+# *** #
+#  $  #
+# .@.###
+#  $   #
+# ***  #
+#  #  ##
+#######
+Title: Octo ban 9
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/09
+
+########
+#   .  #
+#   $  #
+## ***##
+#      #
+#  *** #
+###   ##
+ # *** #
+ #  @  #
+ #######
+Title: The ladder
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/09
+   #####
+   # @ #
+#### * ####
+#   * *   #
+#  *#.#*  #
+##  *$* ###
+ #   *   #
+ ##  #   #
+  ########
+Title: The fat man
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/09/20
+    ####
+ ####  ##
+##      #
+# .$*#  #
+# $.@*  #
+# *#.$ ##
+#  *$. #
+###   ##
+  #####
+Title: Octo ban 10
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/09/21
+###########
+#    #    #
+# $* + *$ #
+#  *...*  #
+##$$#*#$$##
+#  *...*  #
+# $* . *$ #
+#    #    #
+###########
+Title: The big box
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/10/05
+
+  #####
+ ## . ##
+ #  +  #
+##$*$*$##
+#  .#.  #
+# $ . $ #
+##  * ###
+ #  ###
+ ####
+Title: Octoban 11
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/10/15
+#### #####
+#  ###   #
+#   *+*  #
+#   *** ##
+###  #  #
+  # *$* #
+  #  *  #
+  #  #  #
+  #######
+Title: The castle
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/10/28        #
+       # #
+      # @ #
+     #  * ##
+    ## *$*  #
+   ## **.**  #
+  #           #
+ ####  #########
+#################
+Title: The pyramid
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/10/30
+  #######
+  #  #  #
+###  #  ###
+#  $   $  #
+#  **#**  #
+###.. .. ##
+  # $#$ ##
+  ## @ ##
+   #####
+Title: Octo ban 13
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/01
+####
+#  ######
+#       #
+# *.$*$ #
+##$.#. ##
+# ..$*@ #
+# $     #
+#####  ##
+    ####
+Title: Octo ban 14
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/01
+##### #####
+#   ###   #
+# # $ $ # #
+#  $#@# $ #
+###.....###
+#  $$.$$ ##
+# $..#..$ #
+#   ##    #
+###########
+Title: Deca ban 5
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/02
+   #####
+#### @ ####
+#   *#*   #
+#    *    #
+### *#.$###
+  #  *  #
+  #  #  #
+  #######
+Title: The stoper
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/06
+  #####
+  #   #
+ ##$  ##
+ #   $ #
+##*# #+#
+# . $ .#
+# .$ $.#
+#####  #
+    ####
+Title: Disorganized
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/07
+  ###
+  #  ###
+  #$ $  ##
+### ...  #
+# $$.$*  #
+# .$**.###
+#   @  #
+########
+Title: The monster
+Collection: Kokoban
+Author: François Marques
+AuthorMail: sokoban@online.fr
+AuthorPage: http://sokoban.online.fr/
+Date: 2001/11/13
